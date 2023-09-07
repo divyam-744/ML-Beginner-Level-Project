@@ -10,3 +10,9 @@ Once the model is trained and evaluated, it can be used to predict whether newly
 
 Conclusion:
 This study showcases the successful development of a predictive model capable of distinguishing between rocks and mines based on sonar data. The model's high accuracy and balanced performance metrics demonstrate its potential to enhance underwater object detection and classification. Further research could explore real-time deployment and adaptability to different underwater environments, contributing to improved marine safety and security.
+
+2) Parkinson Prediction System
+
+Parkinson's Disease (PD) is a neurodegenerative disorder that affects millions of individuals worldwide. Early detection of PD is crucial for timely medical intervention and improved patient outcomes. Machine learning and artificial intelligence have emerged as valuable tools in the field of healthcare for predictive modeling. 
+
+Developing a Parkinson's Disease Prediction System Model using machine learning techniques holds significant promise in the early detection and management of this debilitating neurodegenerative disorder. With a well-structured dataset, thoughtful feature engineering, appropriate model selection, and rigorous evaluation, such a model can become a valuable tool in improving the quality of life for individuals at risk of Parkinson's Disease. Additionally, the model's transparency and interpretability are vital for building trust among healthcare professionals and patients, paving the way for its widespread clinical adoption.
